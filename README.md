@@ -1,12 +1,60 @@
-- 👋 Hi, I’m Rajaram Biswal
-- 👀 Interests: I'm passionate about web development, frontend technologies, and creating visually appealing user interfaces.
-- 🌱 Currently Learning: JavaScript, React.js, Tailwind css and exploring the latest trends in UI/UX design.
-- 💞️ Looking to Collaborate On: Exciting web development projects, particularly those involving innovative design and frontend development.
-- 📫 Reach Me At: rajarambiswal123@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I love combining code with creativity, and I'm constantly experimenting with new design techniques to enhance user experiences!
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-rajaram2003/rajaram2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Rajaram Biswal and I'm a Web Developer.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👋 Hi, I’m Rajaram Biswal<br>👀 Interests: I'm passionate about web development, frontend technologies, and creating visually appealing user interfaces.<br>🌱 Currently Learning: JavaScript, React.js, Tailwind css and exploring the latest trends in UI/UX design.<br>💞️ Looking to Collaborate On: Exciting web development projects, particularly those involving innovative design and frontend development.<br>📫 Reach Me At: rajarambiswal123@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun Fact: I love combining code with creativity, and I'm constantly experimenting with new design techniques to enhance user experiences!</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="36" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="36" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="36" alt="whatsapp logo"  />
+</div>
+
+###
+
+<h2 align="center">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaram2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaram2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rajaram2003&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rajaram2003&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaram2003&radius=16&theme=gotham&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rajaram2003/rajaram2003/output/snake.svg" alt="Snake animation" />
+
+###

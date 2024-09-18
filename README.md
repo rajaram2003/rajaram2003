@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Rajaram Biswal<br>👀 Interests: I'm passionate about web development, frontend technologies, and creating visually appealing user interfaces.<br>🌱 Currently Learning: JavaScript, React.js, Tailwind css and exploring the latest trends in UI/UX design.<br>💞️ Looking to Collaborate On: Exciting web development projects, particularly those involving innovative design and frontend development.<br>📫 Reach Me At:<a href="mailto:rajarambiswal123@gmail.com">rajarambiswal123@gmail.com</a><br>😄 Pronouns: He/Him<br>⚡ Fun Fact: I love combining code with creativity, and I'm constantly experimenting with new design techniques to enhance user experiences!</p>
+<p align="left">👋 Hi, I’m Rajaram Biswal<br>👀 Interests: I'm passionate about web development, frontend technologies, and creating visually appealing user interfaces.<br>🌱 Currently Learning: JavaScript, React.js, Tailwind css and exploring the latest trends in UI/UX design.<br>💞️ Looking to Collaborate On: Exciting web development projects, particularly those involving innovative design and frontend development.<br>📫 Reach Me At: <a href="mailto:rajarambiswal123@gmail.com">rajarambiswal123@gmail.com</a><br>😄 Pronouns: He/Him<br>⚡ Fun Fact: I love combining code with creativity, and I'm constantly experimenting with new design techniques to enhance user experiences!</p>
 
 ###
 

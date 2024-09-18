@@ -14,6 +14,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://linkedin.com/in/rajaram-biswal-462272320" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="LinkedIn logo" />
@@ -29,7 +31,6 @@
   </a>
 </div>
 
-
 ###
 
 <h2 align="center">I code with</h2>
@@ -43,9 +44,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="20" />
@@ -61,4 +62,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=rajaram2003&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rajaram2003/rajaram2003/output/snake.svg" alt="Snake animation" />
+
+###

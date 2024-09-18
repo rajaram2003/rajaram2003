@@ -55,9 +55,10 @@
 
 ###
 
-<div align="center">
+<div class="stats-container">
   <img src="https://github-readme-stats.vercel.app/api?username=rajaram2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaram2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=rajaram2003&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak" />
   <img src="https://github-profile-trophy.vercel.app?username=rajaram2003&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="GitHub trophies" />
 </div>
+

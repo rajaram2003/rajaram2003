@@ -15,13 +15,20 @@
 ###
 
 <div align="center">
-<a href="https://linkedin.com/in/rajaram-biswal-462272320" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="LinkedIn logo" />
-</a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="36" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="36" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="36" alt="whatsapp logo"  />
+  <a href="https://linkedin.com/in/rajaram-biswal-462272320" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.instagram.com/rajaram_biswal_?igsh=MTAxaTJ4em0wdHAzcA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="36" alt="Instagram logo" />
+  </a>
+  <a href="mailto:rajarambiswal123@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="36" alt="Gmail logo" />
+  </a>
+  <a href="https://wa.me/send?phone=917854984157&text=Hello" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="36" alt="WhatsApp logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -54,4 +61,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=rajaram2003&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/rajaram2003/rajaram2003/output/snake.svg" alt="Snake animation" />
+
+###

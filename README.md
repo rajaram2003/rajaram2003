@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm <b>Rajaram Biswal</b>, a passionate Web Developer focused on crafting intuitive and visually striking user interfaces.</p>
+<p align="left">I'm <b>Rajaram Biswal</b>, a passionate Web Developer who enjoys making websites that are both user-friendly and visually appealing.</p>
 
 ###
 

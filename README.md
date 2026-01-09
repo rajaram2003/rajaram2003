@@ -77,28 +77,16 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true&theme=gotham&cache_seconds=1800" height="150"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true&theme=gotham)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaram2003&layout=compact&theme=gotham)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaram2003&layout=compact&theme=gotham&cache_seconds=1800" height="150"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=rajaram2003&theme=gotham)
 
-<br/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajaram2003&theme=tokyonight)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajaram2003&theme=gotham"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajaram2003&theme=tokyonight&no-frame=true"/>
 </div>
 
 

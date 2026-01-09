@@ -79,14 +79,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true&theme=gotham)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaram2003&layout=compact&theme=gotham)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajaram2003&theme=gotham)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajaram2003&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true)
 
-</div>
 
 

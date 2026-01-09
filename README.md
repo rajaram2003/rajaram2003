@@ -60,7 +60,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40" alt="Tableau logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
 
   <br/><br/>
 

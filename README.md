@@ -81,6 +81,16 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajaram2003&theme=github)
 
+![Profile Views](https://komarev.com/ghpvc/?username=rajaram2003&style=flat-square)
+
+![Followers](https://img.shields.io/github/followers/rajaram2003?label=Followers&style=flat-square)
+
+![Stars](https://img.shields.io/github/stars/rajaram2003?label=Stars&style=flat-square)
+
+![Public Repos](https://img.shields.io/badge/Public%20Repos-🔢-blue?style=flat-square)
+
+![Account Created](https://img.shields.io/badge/GitHub%20Since-2023-green?style=flat-square)
+
 
 
 

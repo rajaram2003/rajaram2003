@@ -79,11 +79,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajaram2003)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true)
 
-![Followers](https://img.shields.io/github/followers/rajaram2003?label=Followers)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaram2003&layout=compact)
 
-![Stars](https://img.shields.io/github/stars/rajaram2003?label=Stars)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajaram2003)
 
 
 

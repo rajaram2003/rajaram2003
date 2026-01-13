@@ -79,17 +79,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true&theme=dark&cache_seconds=86400" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=rajaram2003)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaram2003&layout=compact&theme=dark&cache_seconds=86400" />
-</p>
+![Followers](https://img.shields.io/github/followers/rajaram2003?label=Followers)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajaram2003&theme=dark" />
-</p>
+![Stars](https://img.shields.io/github/stars/rajaram2003?label=Stars)
 
 
 

@@ -97,6 +97,16 @@
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-Growing-blue?style=flat-square)
 ![Consistency](https://img.shields.io/badge/Consistency-Daily%20Commits-orange?style=flat-square)
 
+## 🔥 Contribution Streak
+
+| Metric | Value |
+|------|------|
+| 🔥 Current Streak | Active |
+| 🏆 Longest Streak | Growing |
+| 📅 Days Contributed | Consistent |
+| ⏳ Last Commit | Recent |
+
+
 
 
 

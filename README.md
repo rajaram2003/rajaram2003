@@ -79,11 +79,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaram2003&show_icons=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajaram2003&theme=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaram2003&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rajaram2003)
 
 
 

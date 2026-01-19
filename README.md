@@ -14,7 +14,7 @@
 
 👀 <b>Interests:</b> Frontend development, UI/UX design, and working with data to derive insights.<br>
 🌱 <b>Currently Learning:</b> JavaScript, React.js, Tailwind CSS, Python for data analysis, and SQL.<br>
-💞️ <b>Looking to Collaborate On:</b> Web development projects, frontend-focused applications, and beginner-friendly data analysis projects.<br>
+💞️ <b>Looking to Collaborate On:</b> Web development projects, frontend-focused applications, and data analysis projects.<br>
 😄 <b>Pronouns:</b> He/Him<br>
 ⚡ <b>Fun Fact:</b> I enjoy blending creativity with logic—turning ideas into interactive and meaningful digital experiences.
 </p>

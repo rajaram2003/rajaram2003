@@ -13,7 +13,7 @@
 👋 Hi, I'm <b>Rajaram Biswal</b>, a Computer Science graduate with a strong interest in web development and data analysis.<br><br>
 
 👀 <b>Interests:</b> Frontend development, UI/UX design, and working with data to derive insights.<br>
-🌱 <b>Currently Learning:</b> JavaScript, React.js, Tailwind CSS, Python for data analysis, and SQL.<br>
+🌱 <b>Working With:</b> JavaScript • React.js • Tailwind CSS • Python (Data Analysis) • SQL
 💞️ <b>Looking to Collaborate On:</b> Web development projects, frontend-focused applications, and data analysis projects.<br>
 😄 <b>Pronouns:</b> He/Him<br>
 ⚡ <b>Fun Fact:</b> I enjoy blending creativity with logic—turning ideas into interactive and meaningful digital experiences.
